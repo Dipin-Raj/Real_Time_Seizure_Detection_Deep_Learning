@@ -20,7 +20,7 @@ This project leverages deep learning to create a highly accurate seizure detecti
 ## System Overview
 A wearable-based solution that uses advanced deep learning models to predict seizures by analyzing physiological changes. With real-time alerts and high detection accuracy, the system aims to redefine epilepsy care.
 
-![Graphical Representation ](https://github.com/Dipin-Raj/Real_Time_Seizure_Detection_Deep_Learning/blob/main/workspace/images/Seizure%20Detection%20Cycle_Blue.png)
+<img src="https://github.com/Dipin-Raj/Real_Time_Seizure_Detection_Deep_Learning/blob/main/workspace/images/Seizure%20Detection%20Cycle_Blue.png" alt="Graphical Representation" width="300"/>
 
 ## Methodology
 Data from wearable sensors is preprocessed and used to train deep learning models like CNN and LSTM for classification. The models are evaluated on performance metrics such as accuracy, recall, and F1-score. The dataset used for this project is available from [Eval.ai](https://eval.ai/web/challenges/challenge-page/1693/overview).
