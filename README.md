@@ -4,7 +4,10 @@ A cutting-edge system integrating deep learning with wearable devices to detect 
 
 ## Authors
 - [@Dipin-Raj](https://github.com/Dipin-Raj)
+- [@Jeevan A J](https://github.com/Jee-371)
+- [@Rashaz Rafeeque](https://github.com/Rashaz-Raf)
 - [@Rhishitha](https://github.com/rishi7736)
+
 
 ## Documentation
 You can find the full [Project Report](https://github.com/Dipin-Raj/Real_Time_Seizure_Detection_Deep_Learning/blob/main/Documentation/PROJECT_REPORT.pdf), which contains in-depth analysis of the system, methodology, and results, including the model architectures and performance metrics.
